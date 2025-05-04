@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    padding: 70px;
+}
+header{
+ background-image: linear-gradient(to right, #BBE7FA , #FFFFFF , #BBE7FA );
+}
+.background{
+    position: absolute;
+    top:-30px;
+    left: 150px;
+    font-size: 100px;
+    opacity: 0.5;
+
+}
+aside{
+    position: fixed;
+    top: 200px;
+    right: 50px;
+    text-align: right;
+    border-radius: 50px;
+    border: purple 10px solid;
+    height: 200px;
+}
+nav{
+    text-align: center;
+    padding: 30px;
+}
+h2{
+    text-align: center;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
